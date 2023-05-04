@@ -1,5 +1,7 @@
 print("\n\n\n\n")
 
+# this code is for square matrix multiplication
+
 s = int(input("Size of square matrix: ")) 
 
 matrix_a = []
